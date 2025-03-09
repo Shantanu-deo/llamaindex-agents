@@ -1,0 +1,5 @@
+llama-index
+llama-index-llms-huggingface
+transformers
+torch
+llama-index-llms-gemini
